@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekG160
 - 👀 I’m interested in 
-- 🌱 I’m currently learning python and C language
+- 🌱 I’m currently learning python and C++ language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram-> AbhishekG16_
 
