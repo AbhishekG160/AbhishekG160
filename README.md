@@ -27,6 +27,7 @@
   <a href="mailto:abhishek32468@gmail.com">
     <img src="https://github.com/Fyxod/fyxod/assets/140262636/cb0f74c5-b3a2-44c2-836c-be63d0f56025" width="102" alt="Email"/>
   </a>
+
 </div>
 
 ## 📊 Stats
