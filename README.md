@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" alt="c++ logo" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
 </div>
 
 ###
@@ -44,4 +45,4 @@
 - 📚 I'm also exploring Machine Learning and AI in depth.
 
 ### 🔥 Fun Fact
-I love experimenting with new languages and tech stacks, and I believe learning should never stop! 
+I love experimenting with new languages and tech stacks, and I believe learning should never stop!
