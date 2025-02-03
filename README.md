@@ -18,24 +18,24 @@
 
 ## 🤝 Let's Connect
 <div align="left">
-  <a href="https://www.linkedin.com/in/abhishek-gupta" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/abhishek_gupta/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" alt="Instagram"/>
-  </a>  
-  <a href="mailto:abhishek.dev0101@gmail.com">
-    <img src="https://github.com/Fyxod/fyxod/assets/140262636/cb0f74c5-b3a2-44c2-836c-be63d0f56025" width="102" alt="Email"/>
-  </a>
+<!--   <a href="https://www.linkedin.com/in/abhishek-gupta" target="_blank"> -->
+<!--     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn"/> -->
+<!--   </a> -->
+<!--   <a href="https://www.instagram.com/abhishek_gupta/" target="_blank"> -->
+<!--     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" alt="Instagram"/> -->
+<!--   </a>   -->
+<!--   <a href="mailto:abhishek.dev0101@gmail.com"> -->
+<!--     <img src="https://github.com/Fyxod/fyxod/assets/140262636/cb0f74c5-b3a2-44c2-836c-be63d0f56025" width="102" alt="Email"/> -->
+<!--   </a> -->
 </div>
 
 ## 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fyxod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="200" alt="Abhishek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="200" alt="Abhishek's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fyxod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="200" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekG160&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="200" alt="Languages" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Fyxod&color=blue" width="150" alt="Page views"/>
+  <img src="https://komarev.com/ghpvc/?username=AbhishekG160&color=blue" width="150" alt="Page views"/>
 </div>
 
 <br>
