@@ -18,7 +18,7 @@
 
 ## 🤝 Let's Connect
 <div align="left">
-  <a href="[https://www.linkedin.com/in/abhishek-gupta](https://www.linkedin.com/in/abhishek-gupta-27b8451b8/)" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-gupta-27b8451b8/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/abhishekg16_/" target="_blank">
